@@ -1,0 +1,26 @@
+#!/bin/bash
+#SBATCH --account=mjohn218
+#SBATCH --job-name=DOone112
+#SBATCH --time=72:0:0
+#SBATCH --partition=defq
+#SBATCH --nodes=1
+# number of tasks (processes) per node
+#SBATCH --ntasks-per-node=48
+
+#### load and unload modules you may need
+# module unload openmpi/intel
+# module load mvapich2/gcc/64/2.0b
+module load openblas
+module load netlib-lapack
+module list
+
+for i in 112 
+do
+cd r$i
+g++ continuummodel_maincode_thickness.cpp -larmadillo -o yibenjob -fopenmp
+./yibenjob > OUT&
+cd ..
+done
+wait
+
+#### mpiexec by default launches number of tasks requested

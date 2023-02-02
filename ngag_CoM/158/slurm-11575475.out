@@ -1,0 +1,28 @@
+
+Currently Loaded Modules:
+  1) gcc/9.3.0       4) helpers/0.1.1      7) gsl/2.7
+  2) openmpi/3.1.6   5) git/2.28.0         8) openblas/0.3.10
+  3) slurm/19.05.7   6) standard/2020.10   9) netlib-lapack/3.8.0
+/cm/local/apps/slurm/var/spool/job11575475/slurm_script: line 19: cd: 1: No such file or directory
+NUMITERATIONS overridden: 200
+MESHPOINTOUTPUT overridden: true
+XYZOUTPUT overridden: true
+LMESHSIDE overridden: 2.0
+VARIABLE NOT SUPPORTED: isSphere
+VARIABLE NOT SUPPORTED: rSphere
+VARIABLE NOT SUPPORTED: isFlat
+rSphere overridden: 180.0
+rSphere overridden: 180.0
+C0INSERTION overridden: 0.8
+C0MEMBRANE overridden: 0.0
+KCMEMBRANEBENDING overridden: 83.4
+USMEMBRANESTRETCHING overridden: 250.0
+UVVOLUMECONSTRAINT overridden: 0.0
+TIMESTEP overridden: 0.1
+DIFFCONST overridden: 0.01
+KBT overridden: 4.17
+VARIABLE NOT SUPPORTED: isInsertionIncluded
+VARIABLE NOT SUPPORTED: sigma
+SPLINEPOINTFILENAME overriden: COM.csv
+============================END OF INPUT============================
+There was a problem opening the parameter file!

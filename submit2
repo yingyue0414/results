@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH --account=mjohn218
 #SBATCH --job-name=DOone112
-#SBATCH --time=72:0:0
+#SBATCH --time=24:0:0
 #SBATCH --partition=defq
 #SBATCH --nodes=1
 # number of tasks (processes) per node
@@ -14,11 +14,10 @@ module load openblas
 module load netlib-lapack
 module list
 
-for i in 112 
+for i in 1 
 do
-cd r$i
-g++ continuummodel_maincode_thickness.cpp -larmadillo -o yibenjob -fopenmp
-./yibenjob > OUT&
+cd $i
+./bin/continuum_membrane
 cd ..
 done
 wait

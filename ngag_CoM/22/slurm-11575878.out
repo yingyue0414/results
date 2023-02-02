@@ -1,0 +1,22 @@
+NUMITERATIONS overridden: 200
+MESHPOINTOUTPUT overridden: true
+XYZOUTPUT overridden: true
+LMESHSIDE overridden: 2.0
+VARIABLE NOT SUPPORTED: isSphere
+VARIABLE NOT SUPPORTED: rSphere
+VARIABLE NOT SUPPORTED: isFlat
+rSphere overridden: 180.0
+rSphere overridden: 180.0
+C0INSERTION overridden: 0.8
+C0MEMBRANE overridden: 0.0
+KCMEMBRANEBENDING overridden: 83.4
+USMEMBRANESTRETCHING overridden: 250.0
+UVVOLUMECONSTRAINT overridden: 0.0
+TIMESTEP overridden: 0.1
+DIFFCONST overridden: 0.01
+KBT overridden: 4.17
+VARIABLE NOT SUPPORTED: isInsertionIncluded
+VARIABLE NOT SUPPORTED: sigma
+SPLINEPOINTFILENAME overriden: COM.csv
+============================END OF INPUT============================
+There was a problem opening the parameter file!

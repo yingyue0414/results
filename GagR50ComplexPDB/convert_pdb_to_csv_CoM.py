@@ -271,8 +271,8 @@ def convert_and_rotate_all(readDir = "./", saveDir = "./csv/", plot = False):
 
             if (maxZ - minZ > 15.0):
                 print("WARNING: Z-DIR DISTANCE OVER 15.0!")
-            # set lowest point to +35.0
-            moveDistance = 38.0 - minZ
+            # set lowest point to +41.0
+            moveDistance = 41.0 - minZ
             for pt in pointsRotated:
                 pt[2] += moveDistance
             

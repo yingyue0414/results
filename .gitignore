@@ -5,3 +5,4 @@ noneq_start/out_trajectory.xyz
 *.dat
 *.pdb
 *.mol
+*.pdb#

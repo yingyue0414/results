@@ -1,0 +1,2 @@
+rm ./imgs/*.png
+find ./data/ -type f -name "*.png" -exec cp {} ./imgs/ \;

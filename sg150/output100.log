@@ -1,0 +1,100 @@
+[main()] Small energy or force difference. Updated reference structure.
+[Record::print_iteration()] Step: 828. energy= 0.686836. meanF= 0.0014117. area= 74824.1
+[Model::determine_trial_step_size] Trial step size = 2.40368e-28
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 829, trial StepSize = 0.000000, StepSize = 0.000000
+[main()] Small energy or force difference. Updated reference structure.
+[Record::print_iteration()] Step: 829. energy= 0.480874. meanF= 0.000714557. area= 74824.1
+[Model::determine_trial_step_size] Trial step size = 2.11524e-28
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 830, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 830. energy= 0.761402. meanF= 0.00207017. area= 74824.1
+[Model::determine_trial_step_size] Trial step size = 1.86141e-28
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 831, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 831. energy= 0.941675. meanF= 0.00968363. area= 74824.1
+[Model::determine_trial_step_size] Trial step size = 1.63804e-28
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 832, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 832. energy= 0.586579. meanF= 0.00206346. area= 74824.1
+[Model::determine_trial_step_size] Trial step size = 1.44148e-28
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 833, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 833. energy= 0.624758. meanF= 0.00901532. area= 74824.1
+[Model::determine_trial_step_size] Trial step size = 1.2685e-28
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 834, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 834. energy= 0.852872. meanF= 0.00200621. area= 74824.1
+[Model::determine_trial_step_size] Trial step size = 1.11628e-28
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 835, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 835. energy= 0.514464. meanF= 0.000912972. area= 74824.1
+[Model::determine_trial_step_size] Trial step size = 9.82327e-29
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 836, trial StepSize = 0.000000, StepSize = 0.000000
+[main()] Small energy or force difference. Updated reference structure.
+[Record::print_iteration()] Step: 836. energy= 0.719675. meanF= 0.000132562. area= 74824.1
+[Model::determine_trial_step_size] Trial step size = 8.64448e-29
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 837, trial StepSize = 0.000000, StepSize = 0.000000
+[main()] Small energy or force difference. Updated reference structure.
+[Record::print_iteration()] Step: 837. energy= 0.811596. meanF= 0.000343203. area= 74824.1
+[Model::determine_trial_step_size] Trial step size = 7.60714e-29
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 838, trial StepSize = 0.000000, StepSize = 0.000000
+[main()] Small energy or force difference. Updated reference structure.
+[Record::print_iteration()] Step: 838. energy= 0.596478. meanF= 0.000726088. area= 74824.1
+[Model::determine_trial_step_size] Trial step size = 6.69428e-29
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 839, trial StepSize = 0.000000, StepSize = 0.000000
+[main()] Small energy or force difference. Updated reference structure.
+[Record::print_iteration()] Step: 839. energy= 0.69886. meanF= 0.000180747. area= 74824.1
+[Model::determine_trial_step_size] Trial step size = 5.89097e-29
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 840, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 840. energy= 0.50256. meanF= 0.00168113. area= 74824.1
+[Model::determine_trial_step_size] Trial step size = 5.18405e-29
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 841, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 841. energy= 0.731864. meanF= 0.00630858. area= 74824.1
+[Model::determine_trial_step_size] Trial step size = 4.56197e-29
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 842, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 842. energy= 4.43644. meanF= 0.000443203. area= 74824.1
+[Model::determine_trial_step_size] Trial step size = 4.01453e-29
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 843, trial StepSize = 0.000000, StepSize = 0.000000
+[main()] Small energy or force difference. Updated reference structure.
+[Record::print_iteration()] Step: 843. energy= 2.82027. meanF= 0.000736175. area= 74824.1
+[Model::determine_trial_step_size] Trial step size = 3.53279e-29
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 844, trial StepSize = 0.000000, StepSize = 0.000000
+[main()] Small energy or force difference. Updated reference structure.
+[Record::print_iteration()] Step: 844. energy= 0.929218. meanF= 0.0016688. area= 74824.1
+[Model::determine_trial_step_size] Trial step size = 3.10885e-29
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 845, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 845. energy= 0.608693. meanF= 0.000641135. area= 74824.1
+[Model::determine_trial_step_size] Trial step size = 2.73579e-29
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 846, trial StepSize = 0.000000, StepSize = 0.000000
+[main()] Small energy or force difference. Updated reference structure.
+[Record::print_iteration()] Step: 846. energy= 0.805452. meanF= 0.000502393. area= 74824.1
+[Model::determine_trial_step_size] Trial step size = 2.4075e-29
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 847, trial StepSize = 0.000000, StepSize = 0.000000
+[main()] Small energy or force difference. Updated reference structure.
+[Record::print_iteration()] Step: 847. energy= 2.85825. meanF= 0.000634085. area= 74824.1
+[Model::determine_trial_step_size] Trial step size = 2.1186e-29
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 848, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 848. energy= 1.73356. meanF= 0.00228047. area= 74824.1
+[Model::determine_trial_step_size] Trial step size = 1.86436e-29
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 849, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 849. energy= 0.888728. meanF= 0.000841283. area= 74824.1
+[Model::determine_trial_step_size] Trial step size = 1.64064e-29
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 850, trial StepSize = 0.000000, StepSize = 0.000000
+[main()] Small energy or force difference. Updated reference structure.
+[Record::print_iteration()] Step: 850. energy= 0.697485. meanF= 0.000242936. area= 74824.1

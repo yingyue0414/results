@@ -1,0 +1,100 @@
+[Model::determine_trial_step_size] Trial step size = 1.44122e-17
+[main()] step: 999967, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 999967. energy= 18845.9. meanF= 0.169551. area= 78165.8
+[Model::determine_trial_step_size] Trial step size = 1.26827e-17
+[main()] step: 999968, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 999968. energy= 18854.2. meanF= 0.124656. area= 78165.8
+[Model::determine_trial_step_size] Trial step size = 1.11608e-17
+[main()] step: 999969, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 999969. energy= 18846.9. meanF= 0.380336. area= 78165.8
+[Model::determine_trial_step_size] Trial step size = 9.8215e-18
+[main()] step: 999970, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 999970. energy= 18838.8. meanF= 0.165771. area= 78165.8
+[Model::determine_trial_step_size] Trial step size = 8.64292e-18
+[main()] step: 999971, trial StepSize = 0.000000, StepSize = 0.000000
+[Mesh::propagate_scaffolding()] Total movement : (-2.94061e-06, 0.00032925, -2.47052) 
+[Record::print_iteration()] Step: 999971. energy= 18829.5. meanF= 0.233765. area= 78165.8
+[Model::determine_trial_step_size] Trial step size = 7.60577e-18
+[main()] step: 999972, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 999972. energy= 18835.2. meanF= 0.409282. area= 78165.8
+[Model::determine_trial_step_size] Trial step size = 6.69308e-18
+[main()] step: 999973, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 999973. energy= 18832.4. meanF= 0.199989. area= 78165.8
+[Model::determine_trial_step_size] Trial step size = 5.88991e-18
+[main()] step: 999974, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 999974. energy= 18825.1. meanF= 0.102017. area= 78165.8
+[Model::determine_trial_step_size] Trial step size = 5.18312e-18
+[main()] step: 999975, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 999975. energy= 18828.6. meanF= 0.334499. area= 78165.8
+[Model::determine_trial_step_size] Trial step size = 4.56114e-18
+[main()] step: 999976, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 999976. energy= 18839.1. meanF= 0.157864. area= 78165.8
+[Model::determine_trial_step_size] Trial step size = 4.01381e-18
+[main()] step: 999977, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 999977. energy= 18843. meanF= 0.280296. area= 78165.8
+[Model::determine_trial_step_size] Trial step size = 3.53215e-18
+[main()] step: 999978, trial StepSize = 0.000000, StepSize = 0.000000
+[Mesh::propagate_scaffolding()] Total movement : (-2.94061e-06, 0.000329255, -2.47052) 
+[Record::print_iteration()] Step: 999978. energy= 18837.3. meanF= 0.31196. area= 78165.8
+[Model::determine_trial_step_size] Trial step size = 3.10829e-18
+[main()] step: 999979, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 999979. energy= 18834.9. meanF= 0.160819. area= 78165.8
+[Model::determine_trial_step_size] Trial step size = 2.7353e-18
+[main()] step: 999980, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 999980. energy= 18845.9. meanF= 0.509196. area= 78165.8
+[Model::determine_trial_step_size] Trial step size = 2.40706e-18
+[main()] step: 999981, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 999981. energy= 18858.7. meanF= 0.171363. area= 78165.8
+[Model::determine_trial_step_size] Trial step size = 2.11821e-18
+[main()] step: 999982, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 999982. energy= 18851.2. meanF= 0.237926. area= 78165.8
+[Model::determine_trial_step_size] Trial step size = 1.86403e-18
+[main()] step: 999983, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 999983. energy= 18834.2. meanF= 0.172001. area= 78165.8
+[Model::determine_trial_step_size] Trial step size = 1.64034e-18
+[main()] step: 999984, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 999984. energy= 18840.6. meanF= 0.221321. area= 78165.8
+[Model::determine_trial_step_size] Trial step size = 1.4435e-18
+[main()] step: 999985, trial StepSize = 0.000000, StepSize = 0.000000
+[Mesh::propagate_scaffolding()] Total movement : (-2.94061e-06, 0.000329261, -2.47052) 
+[Record::print_iteration()] Step: 999985. energy= 18846.1. meanF= 0.0773481. area= 78165.8
+[Model::determine_trial_step_size] Trial step size = 1.27028e-18
+[main()] step: 999986, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 999986. energy= 18845. meanF= 0.0970491. area= 78165.8
+[Model::determine_trial_step_size] Trial step size = 1.11785e-18
+[main()] step: 999987, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 999987. energy= 18849.6. meanF= 0.221861. area= 78165.8
+[Model::determine_trial_step_size] Trial step size = 9.83707e-19
+[main()] step: 999988, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 999988. energy= 18836.9. meanF= 0.197002. area= 78165.8
+[Model::determine_trial_step_size] Trial step size = 8.65662e-19
+[main()] step: 999989, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 999989. energy= 18849.9. meanF= 0.0989485. area= 78165.8
+[Model::determine_trial_step_size] Trial step size = 7.61783e-19
+[main()] step: 999990, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 999990. energy= 19323.6. meanF= 0.0922011. area= 78165.8
+[Model::determine_trial_step_size] Trial step size = 6.70369e-19
+[main()] step: 999991, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 999991. energy= 18826.4. meanF= 0.124022. area= 78165.8
+[Model::determine_trial_step_size] Trial step size = 5.89925e-19
+[main()] step: 999992, trial StepSize = 0.000000, StepSize = 0.000000
+[Mesh::propagate_scaffolding()] Total movement : (-2.94061e-06, 0.000329266, -2.47052) 
+[Record::print_iteration()] Step: 999992. energy= 18849.8. meanF= 0.098747. area= 78165.8
+[Model::determine_trial_step_size] Trial step size = 5.19134e-19
+[main()] step: 999993, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 999993. energy= 18844.2. meanF= 0.0903162. area= 78165.8
+[Model::determine_trial_step_size] Trial step size = 4.56838e-19
+[main()] step: 999994, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 999994. energy= 18867.9. meanF= 0.367433. area= 78165.8
+[Model::determine_trial_step_size] Trial step size = 4.02017e-19
+[main()] step: 999995, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 999995. energy= 18845.8. meanF= 0.125066. area= 78165.8
+[Model::determine_trial_step_size] Trial step size = 3.53775e-19
+[main()] step: 999996, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 999996. energy= 18853. meanF= 0.14264. area= 78165.8
+[Model::determine_trial_step_size] Trial step size = 3.11322e-19
+[main()] step: 999997, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 999997. energy= 19344.4. meanF= 0.275912. area= 78165.8
+[Model::determine_trial_step_size] Trial step size = 2.73963e-19
+[main()] step: 999998, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 999998. energy= 18840.9. meanF= 0.0929433. area= 78165.8

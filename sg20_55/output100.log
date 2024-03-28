@@ -1,0 +1,100 @@
+[main()] Small energy or force difference. Updated reference structure.
+[Record::print_iteration()] Step: 6923. energy= 19.5854. meanF= 0.000739773. area= 74817.2
+[Model::determine_trial_step_size] Trial step size = 8.37923e-05
+[main()] step: 6924, trial StepSize = 0.000084, StepSize = 0.000067
+[main()] Small energy or force difference. Updated reference structure.
+[Record::print_iteration()] Step: 6924. energy= 10.1552. meanF= 0.000439868. area= 74817.2
+[Model::determine_trial_step_size] Trial step size = 7.37372e-05
+[main()] step: 6925, trial StepSize = 0.000074, StepSize = 0.000059
+[main()] Small energy or force difference. Updated reference structure.
+[Record::print_iteration()] Step: 6925. energy= 13.829. meanF= 0.00124193. area= 74817.2
+[Model::determine_trial_step_size] Trial step size = 6.48887e-05
+[main()] step: 6926, trial StepSize = 0.000065, StepSize = 0.000052
+[main()] Small energy or force difference. Updated reference structure.
+[Record::print_iteration()] Step: 6926. energy= 14.5065. meanF= 0.000451021. area= 74817.2
+[Model::determine_trial_step_size] Trial step size = 5.71021e-05
+[main()] step: 6927, trial StepSize = 0.000057, StepSize = 0.000046
+[main()] Small energy or force difference. Updated reference structure.
+[Record::print_iteration()] Step: 6927. energy= 9.05755. meanF= 0.00132484. area= 74817.2
+[Model::determine_trial_step_size] Trial step size = 5.02498e-05
+[main()] step: 6928, trial StepSize = 0.000050, StepSize = 0.000040
+[main()] Small energy or force difference. Updated reference structure.
+[Record::print_iteration()] Step: 6928. energy= 13.3223. meanF= 0.00144045. area= 74817.2
+[Model::determine_trial_step_size] Trial step size = 4.42198e-05
+[main()] step: 6929, trial StepSize = 0.000044, StepSize = 0.000035
+[main()] Small energy or force difference. Updated reference structure.
+[Record::print_iteration()] Step: 6929. energy= 11.4067. meanF= 0.000950413. area= 74817.2
+[Model::determine_trial_step_size] Trial step size = 3.89135e-05
+[main()] step: 6930, trial StepSize = 0.000039, StepSize = 0.000031
+[Mesh::propagate_scaffolding()] Total movement : (9.1668e-07, -3.54063e-07, -0.0408406) 
+[main()] Small energy or force difference. Updated reference structure.
+[Record::print_iteration()] Step: 6930. energy= 12.5433. meanF= 0.000808542. area= 74817.2
+[Model::determine_trial_step_size] Trial step size = 3.42439e-05
+[main()] step: 6931, trial StepSize = 0.000034, StepSize = 0.000027
+[main()] Small energy or force difference. Updated reference structure.
+[Record::print_iteration()] Step: 6931. energy= 16.0873. meanF= 0.000483718. area= 74817.2
+[Model::determine_trial_step_size] Trial step size = 3.01346e-05
+[main()] step: 6932, trial StepSize = 0.000030, StepSize = 0.000024
+[main()] Small energy or force difference. Updated reference structure.
+[Record::print_iteration()] Step: 6932. energy= 10.9351. meanF= 0.00141404. area= 74817.2
+[Model::determine_trial_step_size] Trial step size = 2.65184e-05
+[main()] step: 6933, trial StepSize = 0.000027, StepSize = 0.000021
+[main()] Small energy or force difference. Updated reference structure.
+[Record::print_iteration()] Step: 6933. energy= 10.5279. meanF= 0.00121676. area= 74817.2
+[Model::determine_trial_step_size] Trial step size = 2.33362e-05
+[main()] step: 6934, trial StepSize = 0.000023, StepSize = 0.000019
+[main()] Small energy or force difference. Updated reference structure.
+[Record::print_iteration()] Step: 6934. energy= 11.0435. meanF= 0.000247029. area= 74817.2
+[Model::determine_trial_step_size] Trial step size = 2.05359e-05
+[main()] step: 6935, trial StepSize = 0.000021, StepSize = 0.000016
+[main()] Small energy or force difference. Updated reference structure.
+[Record::print_iteration()] Step: 6935. energy= 15.5139. meanF= 0.000648146. area= 74817.2
+[Model::determine_trial_step_size] Trial step size = 1.80716e-05
+[main()] step: 6936, trial StepSize = 0.000018, StepSize = 0.000014
+[main()] Small energy or force difference. Updated reference structure.
+[Record::print_iteration()] Step: 6936. energy= 10.4255. meanF= 0.000805701. area= 74817.2
+[Model::determine_trial_step_size] Trial step size = 1.5903e-05
+[main()] step: 6937, trial StepSize = 0.000016, StepSize = 0.000013
+[Mesh::propagate_scaffolding()] Total movement : (9.14861e-07, -3.55133e-07, -0.0409188) 
+[main()] Small energy or force difference. Updated reference structure.
+[Record::print_iteration()] Step: 6937. energy= 12.9372. meanF= 0.00089478. area= 74817.2
+[Model::determine_trial_step_size] Trial step size = 1.39946e-05
+[main()] step: 6938, trial StepSize = 0.000014, StepSize = 0.000011
+[main()] Small energy or force difference. Updated reference structure.
+[Record::print_iteration()] Step: 6938. energy= 13.3776. meanF= 0.00167574. area= 74817.2
+[Model::determine_trial_step_size] Trial step size = 1.23153e-05
+[main()] step: 6939, trial StepSize = 0.000012, StepSize = 0.000010
+[main()] Small energy or force difference. Updated reference structure.
+[Record::print_iteration()] Step: 6939. energy= 15.2145. meanF= 0.00158046. area= 74817.2
+[Model::determine_trial_step_size] Trial step size = 1.08374e-05
+[main()] step: 6940, trial StepSize = 0.000011, StepSize = 0.000009
+[Record::print_iteration()] Step: 6940. energy= 14.992. meanF= 0.000243522. area= 74817.2
+[Model::determine_trial_step_size] Trial step size = 9.53695e-06
+[main()] step: 6941, trial StepSize = 0.000010, StepSize = 0.000008
+[main()] Small energy or force difference. Updated reference structure.
+[Record::print_iteration()] Step: 6941. energy= 14.0607. meanF= 0.000300281. area= 74817.2
+[Model::determine_trial_step_size] Trial step size = 8.39251e-06
+[main()] step: 6942, trial StepSize = 0.000008, StepSize = 0.000007
+[main()] Small energy or force difference. Updated reference structure.
+[Record::print_iteration()] Step: 6942. energy= 14.3023. meanF= 0.000877405. area= 74817.2
+[Model::determine_trial_step_size] Trial step size = 7.38541e-06
+[main()] step: 6943, trial StepSize = 0.000007, StepSize = 0.000006
+[main()] Small energy or force difference. Updated reference structure.
+[Record::print_iteration()] Step: 6943. energy= 14.7439. meanF= 0.00104469. area= 74817.2
+[Model::determine_trial_step_size] Trial step size = 6.49916e-06
+[main()] step: 6944, trial StepSize = 0.000006, StepSize = 0.000005
+[Mesh::propagate_scaffolding()] Total movement : (9.13081e-07, -3.56188e-07, -0.0409717) 
+[main()] Small energy or force difference. Updated reference structure.
+[Record::print_iteration()] Step: 6944. energy= 14.3365. meanF= 0.00105875. area= 74817.2
+[Model::determine_trial_step_size] Trial step size = 5.71926e-06
+[main()] step: 6945, trial StepSize = 0.000006, StepSize = 0.000005
+[main()] Small energy or force difference. Updated reference structure.
+[Record::print_iteration()] Step: 6945. energy= 13.2054. meanF= 0.000863332. area= 74817.2
+[Model::determine_trial_step_size] Trial step size = 5.03295e-06
+[main()] step: 6946, trial StepSize = 0.000005, StepSize = 0.000004
+[main()] Small energy or force difference. Updated reference structure.
+[Record::print_iteration()] Step: 6946. energy= 13.3746. meanF= 0.000258235. area= 74817.2
+[Model::determine_trial_step_size] Trial step size = 4.429e-06
+[main()] step: 6947, trial StepSize = 0.000004, StepSize = 0.000004
+[main()] Small energy or force difference. Updated reference structure.
+[Record::print_iteration()] Step: 6947. energy= 11.6186. meanF= 0.000662694. area= 74817.2

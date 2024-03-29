@@ -1,0 +1,100 @@
+[Record::print_iteration()] Step: 99974. energy= 153.796. meanF= 0.00879593. area= 75810.2
+[Model::determine_trial_step_size] Trial step size = 7.70034e-20
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 99975, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 99975. energy= 150.352. meanF= 0.0207488. area= 75810.2
+[Model::determine_trial_step_size] Trial step size = 6.7763e-20
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 99976, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 99976. energy= 150.438. meanF= 0.0375028. area= 75810.2
+[Model::determine_trial_step_size] Trial step size = 5.96314e-20
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 99977, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 99977. energy= 154.439. meanF= 0.0199206. area= 75810.2
+[Model::determine_trial_step_size] Trial step size = 5.24756e-20
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 99978, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 99978. energy= 149.048. meanF= 0.00604168. area= 75810.2
+[Model::determine_trial_step_size] Trial step size = 4.61786e-20
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 99979, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 99979. energy= 149.861. meanF= 0.0094346. area= 75810.2
+[Model::determine_trial_step_size] Trial step size = 4.06371e-20
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 99980, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 99980. energy= 150.211. meanF= 0.0194644. area= 75810.2
+[Model::determine_trial_step_size] Trial step size = 3.57607e-20
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 99981, trial StepSize = 0.000000, StepSize = 0.000000
+[Mesh::propagate_scaffolding()] Total movement : (-8.14721e-05, -2.39038e-06, 0.000174091) 
+[Record::print_iteration()] Step: 99981. energy= 151.566. meanF= 0.00647466. area= 75810.2
+[Model::determine_trial_step_size] Trial step size = 3.14694e-20
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 99982, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 99982. energy= 151.253. meanF= 0.014455. area= 75810.2
+[Model::determine_trial_step_size] Trial step size = 2.76931e-20
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 99983, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 99983. energy= 148.33. meanF= 0.0352293. area= 75810.2
+[Model::determine_trial_step_size] Trial step size = 2.43699e-20
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 99984, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 99984. energy= 153.648. meanF= 0.0287227. area= 75810.2
+[Model::determine_trial_step_size] Trial step size = 2.14455e-20
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 99985, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 99985. energy= 148.705. meanF= 0.0210407. area= 75810.2
+[Model::determine_trial_step_size] Trial step size = 1.8872e-20
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 99986, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 99986. energy= 145.634. meanF= 0.0131171. area= 75810.2
+[Model::determine_trial_step_size] Trial step size = 1.66074e-20
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 99987, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 99987. energy= 152.204. meanF= 0.0167424. area= 75810.2
+[Model::determine_trial_step_size] Trial step size = 1.46145e-20
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 99988, trial StepSize = 0.000000, StepSize = 0.000000
+[Mesh::propagate_scaffolding()] Total movement : (-8.14721e-05, -2.39038e-06, 0.000174091) 
+[Record::print_iteration()] Step: 99988. energy= 150.713. meanF= 0.0349867. area= 75810.2
+[Model::determine_trial_step_size] Trial step size = 1.28608e-20
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 99989, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 99989. energy= 152.007. meanF= 0.0171463. area= 75810.2
+[Model::determine_trial_step_size] Trial step size = 1.13175e-20
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 99990, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 99990. energy= 149.201. meanF= 0.0281496. area= 75810.2
+[Model::determine_trial_step_size] Trial step size = 9.95938e-21
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 99991, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 99991. energy= 151.255. meanF= 0.0228978. area= 75810.2
+[Model::determine_trial_step_size] Trial step size = 8.76426e-21
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 99992, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 99992. energy= 148.826. meanF= 0.0126516. area= 75810.2
+[Model::determine_trial_step_size] Trial step size = 7.71255e-21
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 99993, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 99993. energy= 150.74. meanF= 0.028782. area= 75810.2
+[Model::determine_trial_step_size] Trial step size = 6.78704e-21
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 99994, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 99994. energy= 152.112. meanF= 0.0164199. area= 75810.2
+[Model::determine_trial_step_size] Trial step size = 5.9726e-21
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 99995, trial StepSize = 0.000000, StepSize = 0.000000
+[Mesh::propagate_scaffolding()] Total movement : (-8.14721e-05, -2.39038e-06, 0.000174091) 
+[Record::print_iteration()] Step: 99995. energy= 152.082. meanF= 0.0203997. area= 75810.2
+[Model::determine_trial_step_size] Trial step size = 5.25588e-21
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 99996, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 99996. energy= 149.196. meanF= 0.0345952. area= 75810.2
+[Model::determine_trial_step_size] Trial step size = 4.62518e-21
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 99997, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 99997. energy= 145.442. meanF= 0.0205008. area= 75810.2
+[Model::determine_trial_step_size] Trial step size = 4.07016e-21
+Note: cannot find an efficient small stepSize to minimize the Energy even with the simple method!
+[main()] step: 99998, trial StepSize = 0.000000, StepSize = 0.000000
+[Record::print_iteration()] Step: 99998. energy= 151.938. meanF= 0.00654607. area= 75810.2
